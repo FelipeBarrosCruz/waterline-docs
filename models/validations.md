@@ -20,7 +20,7 @@ attributes: {
     required: true,
     notEmpty: true,
     undefined: true,
-    string:
+    string: true,
     alpha: true,
     numeric: true,
     alphanumeric: true,
